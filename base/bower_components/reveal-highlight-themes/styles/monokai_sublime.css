@@ -1,0 +1,154 @@
+/*
+
+Monokai Sublime style. Derived from Monokai by noformnocontent http://nn.mit-license.org/
+
+*/
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #23241f;
+  -webkit-text-size-adjust: none;
+}
+
+.hljs,
+.hljs-tag,
+.hljs-css-rules,
+.hljs-css-value,
+.hljs-aspectj-function,
+.hljs-css-function
+.hljs-preprocessor,
+.hljs-pragma {
+  color: #f8f8f2;
+}
+
+.hljs-strongemphasis,
+.hljs-strong,
+.hljs-emphasis {
+  color: #a8a8a2;
+}
+
+.hljs-bullet,
+.hljs-blockquote,
+.hljs-horizontal_rule,
+.hljs-number,
+.hljs-regexp,
+.hljs-alias-keyword,
+.hljs-literal,
+.hljs-hexcolor {
+  color: #ae81ff;
+}
+
+.hljs-tag-value,
+.hljs-code,
+.hljs-title,
+.hljs-css-class,
+.hljs-class-title:last-child {
+  color: #a6e22e;
+}
+
+.hljs-link_url {
+  font-size: 80%;
+}
+
+.hljs-strong,
+.hljs-strongemphasis {
+  font-weight: bold;
+}
+
+.hljs-emphasis,
+.hljs-strongemphasis,
+.hljs-class-title:last-child,
+.hljs-typename {
+  font-style: italic;
+}
+
+.hljs-keyword,
+.hljs-ruby-class-keyword:first-child,
+.hljs-ruby-function-keyword,
+.hljs-function,
+.hljs-change,
+.hljs-winutils,
+.hljs-flow,
+.hljs-nginx-title,
+.hljs-tex-special,
+.hljs-header,
+.hljs-attribute,
+.hljs-symbol,
+.hljs-symbol-string,
+.hljs-tag-title,
+.hljs-value,
+.hljs-alias-keyword:first-child,
+.hljs-css-tag,
+.hljs-css-unit,
+.hljs-css-important {
+  color: #f92672;
+}
+
+.hljs-function-keyword,
+.hljs-class-keyword:first-child,
+.hljs-aspect-keyword:first-child,
+.hljs-constant,
+.hljs-typename,
+.hljs-css-attribute {
+  color: #66d9ef;
+}
+
+.hljs-variable,
+.hljs-params,
+.hljs-class-title,
+.hljs-aspect-title {
+  color: #f8f8f2;
+}
+
+.hljs-string,
+.hljs-css-id,
+.hljs-subst,
+.hljs-type,
+.hljs-ruby-class-parent,
+.hljs-built_in,
+.hljs-django-template_tag,
+.hljs-django-variable,
+.hljs-smalltalk-class,
+.hljs-django-filter-argument,
+.hljs-smalltalk-localvars,
+.hljs-smalltalk-array,
+.hljs-attr_selector,
+.hljs-pseudo,
+.hljs-addition,
+.hljs-stream,
+.hljs-envvar,
+.hljs-apache-tag,
+.hljs-apache-cbracket,
+.hljs-tex-command,
+.hljs-prompt,
+.hljs-link_label,
+.hljs-link_url {
+  color: #e6db74;
+}
+
+.hljs-comment,
+.hljs-javadoc,
+.hljs-annotation,
+.hljs-decorator,
+.hljs-pi,
+.hljs-doctype,
+.hljs-deletion,
+.hljs-shebang,
+.hljs-apache-sqbracket,
+.hljs-tex-formula {
+  color: #75715e;
+}
+
+.hljs-coffeescript-javascript,
+.hljs-javascript-xml,
+.hljs-tex-formula,
+.hljs-xml-javascript,
+.hljs-xml-vbscript,
+.hljs-xml-css,
+.hljs-xml-cdata,
+.hljs-xml-php,
+.hljs-php-xml {
+  opacity: 0.5;
+}
